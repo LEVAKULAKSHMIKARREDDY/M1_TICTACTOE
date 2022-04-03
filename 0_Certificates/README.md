@@ -1,3 +1,3 @@
-Sololern
-NDG Linux
-GitHub
+- Sololern
+- NDG Linux
+- GitHub
